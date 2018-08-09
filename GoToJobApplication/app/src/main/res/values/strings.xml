@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoToJobApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info">" "</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="gender">Gender:</string>
+    <string name="nationality">Nationality:</string>
+    <string name="username">Username:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="problem_with_response">You Have Problem With Response</string>
+    <string name="try_load_again">Try load app again</string>
+    <string name="base">https://randomuser.me</string>
+</resources>
